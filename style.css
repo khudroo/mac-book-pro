@@ -1,0 +1,59 @@
+/* Custom style */
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    box-sizing: border-box;
+    font-size: 14px;
+}
+
+img {
+    max-width: 100%;
+}
+
+.btn {
+    font-size: 14px;
+}
+
+
+/* memory area style */
+
+.memory {
+    margin-top: 8%;
+}
+
+
+/* storage area style */
+
+.storage {
+    margin-top: 8%;
+}
+
+
+/* delivery area style */
+
+.delivery {
+    margin-top: 8%;
+}
+
+
+/* price area style */
+
+.price-Table-container {
+    margin-top: 8%;
+}
+
+
+/* promo-code area style */
+
+.promo-code-container {
+    margin-top: 8%;
+}
+
+
+/* grand-total area style */
+
+.grand-total {
+    margin: 40px 0px;
+    border-top: 2px solid gray;
+    padding: 40px 0;
+}
